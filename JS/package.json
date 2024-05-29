@@ -1,0 +1,15 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David-Ponce",
+  "license": "ISC",
+  "description": "Practica de typescript",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
